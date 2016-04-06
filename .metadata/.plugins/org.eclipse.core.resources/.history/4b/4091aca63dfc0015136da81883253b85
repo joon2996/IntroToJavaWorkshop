@@ -1,0 +1,16 @@
+import javax.swing.JOptionPane;
+
+public class PersonalQuestions {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+JOptionPane.showInputDialog("What school do you go to?");
+JOptionPane.showInputDialog(null, "What is your boyfriend/girlfriend's name? If you don't have one just write 'sadlyfe'");
+JOptionPane.showInputDialog("How frequently do you pick your nose?");
+JOptionPane.showConfirmDialog(null, "Have you ever danced Gangnam Style in an elevator trying to be the elevator guy in the video?");
+JOptionPane.showInputDialog("When was your most embarassing moment being harassed in public?");
+JOptionPane.showInputDialog("Do you know that it feels like rainfall when you sneeze when your lying down?");
+	
+	
+	}
+}

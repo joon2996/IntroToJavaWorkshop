@@ -1,0 +1,16 @@
+import javax.swing.JOptionPane;
+
+public class PersonalQuestions {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String school=JOptionPane.showInputDialog("What school do you go to?");
+JOptionPane.showInputDialog(school "is great unless it's CCA.");
+JOptionPane.showInputDialog("What is your boyfriend/girlfriend's name? If you don't have one just write '#sadlyfe'");
+JOptionPane.showInputDialog("How frequently do you pick your nose?");
+JOptionPane.showInputDialog("When was the last time you danced to Gangnam Style in an elevator trying to be the elevator guy in the video?");
+JOptionPane.showInputDialog("Do you take selfies and post it on social media on a regular basis?");
+JOptionPane.showInputDialog("When was the last time you laughed so hard that you started crying?");
+
+	}
+}

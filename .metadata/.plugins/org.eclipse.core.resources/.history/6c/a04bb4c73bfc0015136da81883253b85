@@ -1,0 +1,17 @@
+import javax.swing.JOptionPane;
+
+public class PersonalQuestions {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+JOptionPane.showConfirmDialog(null, "Do you have a boyfriend/girlfriend?");
+JOptionPane.showInputDialog("What is the meaning of life?");
+JOptionPane.showInputDialog("Are people fundamentally good or evil?");
+JOptionPane.showConfirmDialog(null, "Don't you love Jangwoo?");
+	
+JOptionPane.showInputDialog("What's your dad's car?");
+	
+	
+	
+	}
+}

@@ -1,0 +1,19 @@
+import javax.swing.JOptionPane;
+
+public class Megatron {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String word = "#truestory";
+String yee = JOptionPane.showInputDialog("What's your name?")
+System.out.println("HELLO WORLD!");
+System.out.println("wa");
+JOptionPane.showMessageDialog(null, "Jangwoo is handsome");
+JOptionPane.showMessageDialog(null, "Jangwoo is gorgeous");
+JOptionPane.showMessageDialog(null, "Jangwoo is very good-looking");
+JOptionPane.showMessageDialog(null, "Jangwoo is so hot");
+JOptionPane.showMessageDialog(null, word);
+JOptionPane.showInputDialog("So how's life");
+JOptionPane.showConfirmDialog(null, "Is Jangwoo Handsome");	
+	}
+}
